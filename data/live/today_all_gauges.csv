@@ -1,0 +1,77 @@
+gauge_id,country,river_km,level_cm,date,source
+ingolstadt_luitpoldstrasse,Germany,2458.3,134.5,2026-10-22,PEGELONLINE daily mean
+kelheim_donau,Germany,2414.8,200.1,2026-10-22,PEGELONLINE daily mean
+kelheimwinzer,Germany,2409.7,255.6,2026-10-22,PEGELONLINE daily mean
+oberndorf,Germany,2397.4,151.6,2026-10-22,PEGELONLINE daily mean
+regensburg_eiserne_brücke,Germany,2379.3,188.4,2026-10-22,PEGELONLINE daily mean
+schwabelweis,Germany,2376.5,282.9,2026-10-22,PEGELONLINE daily mean
+pfatter,Germany,2350.7,301.6,2026-10-22,PEGELONLINE daily mean
+pfelling,Germany,2305.53,241.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+deggendorf,Germany,2284.4,156.5,2026-10-22,PEGELONLINE daily mean
+hofkirchen,Germany,2256.86,164.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+vilshofen,Germany,2249.5,285.0,2026-10-22,PEGELONLINE daily mean
+kachlet_wehr_up,Germany,2230.724,53.3,2026-10-22,PEGELONLINE daily mean
+passau_donau,Germany,2226.7,388.9,2026-10-22,PEGELONLINE daily mean
+passau_ilzstadt,Germany,2225.2,409.2,2026-10-22,PEGELONLINE daily mean
+achleiten,Austria,2223.1,240.7,2026-10-22,PEGELONLINE daily mean
+erlau,Austria,2214.5,734.2,2026-10-22,PEGELONLINE daily mean
+engelhartszell,Austria,2200.7,379.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+wilhering,Austria,2144.1,235.6,2026-10-22,PEGELONLINE daily mean
+linz,Austria,2135.2,343.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+mauthausen,Austria,2111.0,429.5,2026-10-22,PEGELONLINE daily mean
+grein,Austria,2079.1,707.1,2026-10-22,PEGELONLINE daily mean
+melk,Austria,2036.0,181.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+kienstock,Austria,2015.2,119.9,2026-10-22,PEGELONLINE daily mean
+dürnstein,Austria,2009.2,281.0,2026-10-22,PEGELONLINE daily mean
+korneuburg,Austria,1941.5,183.3,2026-10-22,PEGELONLINE daily mean
+wildungsmauer,Austria,1894.7,99.2,2026-10-22,PEGELONLINE daily mean
+devin,Slovakia,1879.8,79.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+thebnerstrassl,Austria,1879.2,73.0,2026-10-22,PEGELONLINE daily mean
+medvedov,Slovakia,1806.1,-31.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+gionyu,Hungary,1791.3,-74.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+komarom,Hungary,1768.34,-28.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+komarno,Slovakia,1767.4,17.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+nagymaros,Hungary,1694.6,-92.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+budapest,Hungary,1646.5,11.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+dunaujvaros,Hungary,1580.6,-105.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+dunafeldvar,Hungary,1560.6,-225.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+paks,Hungary,1531.3,-99.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+baja,Hungary,1478.7,-9.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+mohacs,Hungary,1446.9,5.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+bezdan,Serbia,1425.6,-146.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+apatin,Serbia,1401.9,-92.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+bogojevo,Serbia,1367.25,-92.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+vukovar,Croatia,1333.1,-79.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+novi_sad,Serbia,1254.98,-69.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+zemun,Serbia,1173.31,174.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+pancevo,Serbia,1154.54,219.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+smederevo,Serbia,1116.23,421.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+bazias,Romania,1072.5,546.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+veliko_gradište,Serbia,1059.0,727.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+moldova_veke,Romania,1048.0,694.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+drencova,Romania,1016.18,967.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+orsova,Romania,954.0,2520.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+t_severin,Romania,931.0,635.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+prahovo,Serbia,861.0,-155.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+gruia,Romania,851.0,-178.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+novo_selo,Bulgaria,833.0,-90.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+calafat,Romania,795.0,-201.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+lom,Bulgaria,743.3,-44.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+bechet,Romania,679.0,-134.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+oryahovo,Bulgaria,678.0,-132.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+corabia,Romania,630.0,-166.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+nikopol,Bulgaria,597.5,-34.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+turnu_măgurel,Romania,597.0,-144.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+svishtov,Bulgaria,554.3,-92.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+zimnicea,Romania,553.6,-107.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+ruse,Bulgaria,495.6,-140.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+giurgiu,Romania,493.0,-214.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+oltenita,Romania,430.0,-169.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+silistra,Bulgaria,375.5,-142.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+calarasi,Romania,370.5,-208.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+cernavoda,Romania,300.0,-268.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+hirsova,Romania,253.0,-156.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+brăila,Romania,170.0,-16.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+galati,Romania,150.0,1.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+isaccea,Romania,103.8,2.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+tulcea,Romania,71.3,8.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)

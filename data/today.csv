@@ -1,0 +1,15 @@
+gauge_id,level_cm,date,source
+kienstock,119.9,2026-10-22,PEGELONLINE daily mean
+wildungsmauer,99.2,2026-10-22,PEGELONLINE daily mean
+medvedov,-31.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+budapest,11.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+dunafeldvar,-225.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+apatin,-92.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+bogojevo,-92.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+novi_sad,-69.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+novo_selo,-90.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+lom,-44.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+oryahovo,-132.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+svishtov,-92.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+ruse,-140.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)
+silistra,-142.0,2026-10-22,APPD 8-day table (appd-bg.org/statistic-en)

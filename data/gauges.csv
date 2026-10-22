@@ -1,0 +1,15 @@
+gauge_id,name,country,river_km,history,history_source
+novo_selo,Novo Selo,Bulgaria,833.0,real,APPD open-data archive 1941-2025 + APPD 8-day table Oct 2026
+lom,Lom,Bulgaria,743.3,real,APPD open-data archive 1941-2025 + APPD 8-day table Oct 2026
+oryahovo,Oryahovo,Bulgaria,678.0,real,APPD open-data archive 1941-2025 + APPD 8-day table Oct 2026
+svishtov,Svishtov,Bulgaria,554.3,real,APPD open-data archive 1941-2025 + APPD 8-day table Oct 2026
+ruse,Ruse,Bulgaria,495.6,real,APPD open-data archive 1941-2025 + APPD 8-day table Oct 2026
+silistra,Silistra,Bulgaria,375.5,real,APPD open-data archive 1941-2025 + APPD 8-day table Oct 2026
+kienstock,Kienstock,Austria,2015.2,placeholder,"PLACEHOLDER for the prototype: Lom's real daily pattern 1996-2025, scaled x0.7 and shifted to this gauge's real 22 Oct 2026 level"
+wildungsmauer,Wildungsmauer,Austria,1894.7,placeholder,"PLACEHOLDER for the prototype: Lom's real daily pattern 1996-2025, scaled x0.7 and shifted to this gauge's real 22 Oct 2026 level"
+medvedov,Medveďov,Slovakia,1806.1,placeholder,"PLACEHOLDER for the prototype: Lom's real daily pattern 1996-2025, scaled x0.8 and shifted to this gauge's real 22 Oct 2026 level"
+budapest,Budapest,Hungary,1646.5,placeholder,"PLACEHOLDER for the prototype: Lom's real daily pattern 1996-2025, scaled x0.8 and shifted to this gauge's real 22 Oct 2026 level"
+dunafeldvar,Dunaföldvár,Hungary,1560.6,placeholder,"PLACEHOLDER for the prototype: Lom's real daily pattern 1996-2025, scaled x0.8 and shifted to this gauge's real 22 Oct 2026 level"
+apatin,Apatin,Serbia,1401.9,placeholder,"PLACEHOLDER for the prototype: Lom's real daily pattern 1996-2025, scaled x0.8 and shifted to this gauge's real 22 Oct 2026 level"
+bogojevo,Bogojevo,Serbia,1367.25,placeholder,"PLACEHOLDER for the prototype: Lom's real daily pattern 1996-2025, scaled x0.8 and shifted to this gauge's real 22 Oct 2026 level"
+novi_sad,Novi Sad,Serbia,1254.98,placeholder,"PLACEHOLDER for the prototype: Lom's real daily pattern 1996-2025, scaled x0.8 and shifted to this gauge's real 22 Oct 2026 level"

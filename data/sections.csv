@@ -1,0 +1,31 @@
+section,country,river_km,gauge,offset_cm,status,source
+Wachau (Kienstock),Austria,2014.0,kienstock,89,placeholder,"PLACEHOLDER for the prototype: 2.5 m at LNWL; Kienstock LNWL 161 cm (vienna.at) -> 250 - 161 = 89. Method real, single-spot depth unverified"
+East of Vienna,Austria,1890.0,wildungsmauer,90,placeholder,PLACEHOLDER for the prototype: Pro Danube 2012: gauge +20 cm; raised after FAIRway dredging (guess)
+Gönyű (common SK/HU section),Slovakia/Hungary,1793.0,medvedov,220,placeholder,PLACEHOLDER for the prototype: offset invented
+Nagymaros-Szob,Hungary,1700.0,budapest,180,placeholder,PLACEHOLDER for the prototype: Pro Danube 2012: Budapest gauge +60-75 cm; raised for riverbed erosion
+Dunaföldvár-Solt,Hungary,1559.0,dunafeldvar,410,placeholder,"PLACEHOLDER for the prototype: Pro Danube 2012: gauge +320 cm; raised for riverbed erosion, tuned to 2026 reports (ships at 30-40 %)"
+Apatin,Croatia/Serbia,1403.0,apatin,250,placeholder,PLACEHOLDER for the prototype: known critical sector (Pro Danube 2013); offset invented
+Mohovo,Croatia/Serbia,1309.0,bogojevo,250,placeholder,PLACEHOLDER for the prototype: known critical sector (Pro Danube 2013); offset invented
+Novi Sad,Serbia,1266.0,novi_sad,240,placeholder,PLACEHOLDER for the prototype: known critical sector (Pro Danube 2013); offset invented
+Lom-Oryahovo stretch (not surveyed),Bulgaria/Romania,700.0,lom,220,placeholder,PLACEHOLDER for the prototype: no APPD bottleneck listed km 609-743
+Băloiu,Bulgaria/Romania,629.0,oryahovo,300,placeholder,"PLACEHOLDER for the prototype: team spreadsheet: 1.8 m on 11 Aug 2026, no source"
+Somovit,Bulgaria/Romania,608.0,svishtov,270,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 178 cm today, width 60 m, surveyed 2026-10-02"
+Palets island,Bulgaria/Romania,585.0,svishtov,300,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 208 cm today, width 180 m, surveyed 2026-10-06"
+G. Byrzina island,Bulgaria/Romania,574.5,svishtov,240,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 148 cm today, width 140 m, surveyed 2026-09-30"
+Belene island,Bulgaria/Romania,564.0,svishtov,270,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 178 cm today, width 100 m, surveyed 2026-09-30"
+Vardim island (upper),Bulgaria/Romania,545.5,svishtov,270,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 178 cm today, width 110 m, surveyed 2026-10-06"
+Vardim island (lower),Bulgaria/Romania,543.5,svishtov,260,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 168 cm today, width 80 m, surveyed 2026-10-01"
+Yantra mouth (Gâsca),Bulgaria/Romania,536.5,svishtov,390,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 298 cm today, width 180 m, surveyed 2026-10-07"
+Batin (km 530-527),Bulgaria/Romania,528.5,svishtov,360,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 268 cm today, width 110 m, surveyed 2026-09-11"
+Ruse,Bulgaria/Romania,491.0,ruse,400,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 260 cm today, width 110 m, surveyed 2026-10-08"
+Dunav Most,Bulgaria/Romania,487.5,ruse,310,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 170 cm today, width 150 m, surveyed 2026-06-04"
+Gostin island,Bulgaria/Romania,474.0,ruse,360,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 220 cm today, width 180 m, surveyed 2026-09-25"
+Mishka island,Bulgaria/Romania,461.5,ruse,350,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 210 cm today, width 100 m, surveyed 2026-09-23"
+Braschlian island,Bulgaria/Romania,454.0,ruse,410,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 270 cm today, width 180 m, surveyed 2026-10-20"
+Kosui island 2,Bulgaria/Romania,426.5,silistra,340,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 198 cm today, width 120 m, surveyed 2026-10-20"
+Albina island,Bulgaria/Romania,413.0,silistra,280,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 138 cm today, width 100 m, surveyed 2026-09-24"
+Popina,Bulgaria/Romania,403.5,silistra,380,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 238 cm today, width 200 m, surveyed 2026-09-24"
+Vereshti island,Bulgaria/Romania,399.0,silistra,650,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 508 cm today, width 190 m, surveyed 2026-09-02"
+Vetren island,Bulgaria/Romania,393.5,silistra,450,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 308 cm today, width 180 m, surveyed 2026-09-24"
+Chaika island,Bulgaria/Romania,386.0,silistra,310,real,"APPD critical sections (appd-bg.org/bottlenecks-en), 22 Oct 2026: deepest lane 168 cm today, width 70 m, surveyed 2026-09-23"
+Cernavodă upstream,Romania,325.0,silistra,303,placeholder,"PLACEHOLDER for the prototype: team spreadsheet: 2.15 m at Silistra -88 cm, no source"

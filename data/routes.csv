@@ -1,0 +1,6 @@
+route_id,name,from_km,to_km,transit_days,normal_rate_eur_t,alternative_mode,alternative_rate_eur_t,status,source
+lom-constanta,Lom → Constanța,743,300,3,15,truck,45,real,"Normal rate: EUR 15/t Reni/Izmail-Constanța corn 2024 (USM, proxy); truck EUR 40-50/t Vidin region 2026 (UkrAgroConsult); transit days PLACEHOLDER"
+ruse-constanta,Ruse → Constanța,496,300,2,14,truck,40,real,"As Lom route; rate shortened by distance (PLACEHOLDER); truck EUR 40/t (low end of 40-50, UkrAgroConsult 2026)"
+novisad-constanta,Novi Sad → Constanța,1255,300,6,17,rail,30,placeholder,"Normal rate: EUR 17/t Hungary-Constanța 2013 (Pro Danube, proxy); rail rate and transit days PLACEHOLDER"
+vienna-constanta,Vienna → Constanța,1925,300,9,22,rail,38,placeholder,"PLACEHOLDER: normal rate, rail rate and transit days invented for the prototype"
+linz-constanta,Linz → Constanța,2135,300,10,24,rail,40,placeholder,"PLACEHOLDER: normal rate, rail rate and transit days invented for the prototype"
